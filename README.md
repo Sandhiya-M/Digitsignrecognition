@@ -6,6 +6,9 @@ The main objective of this project is
 •	To make the model suitable to any background and any signers.
 
 •	The recognized digits can then be converted to text.
-![image](https://user-images.githubusercontent.com/91674147/212259951-32be9ee3-21a6-454d-bf03-a0b2e8b749e9.png)
+
 ![image](https://user-images.githubusercontent.com/91674147/212260011-e2cb4466-fdee-4542-9c63-f03823a4afcf.png)
+
 ![image](https://user-images.githubusercontent.com/91674147/212260069-7a0530bb-afc3-4792-ae41-09293932ace7.png)
+
+![image](https://user-images.githubusercontent.com/91674147/212259951-32be9ee3-21a6-454d-bf03-a0b2e8b749e9.png)
